@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Abhinn Goyal
-### IIT Mandi CSE '27 | Machine Learning & Deep Learning Enthusiast
+### IIT Mandi CSE '27 | ML & Deep Learning Enthusiast
 
 <p align="left">
   <img src="https://img.shields.io/badge/IIT%20Mandi-CSE%20'27-blue?style=flat-square&logo=google-scholar&logoColor=white" />
@@ -22,8 +22,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinn05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinn05&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinn05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinn05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
