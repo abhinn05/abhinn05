@@ -125,12 +125,13 @@ Machine Learning • Deep Learning • OpenCV • Pandas • Scikit-Learn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinn05&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinn05&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinn05&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=abhinn05&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinn05&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinn05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
